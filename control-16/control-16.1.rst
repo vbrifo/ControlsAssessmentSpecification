@@ -47,8 +47,7 @@ Completeness
 .. list-table::
 
 	* - **Metric**
-	  - | The percent of components included in the secure application 
-	  - | development process
+	  - | The percent of components included in the secure application development process
 	* - **Calculation**
 	  - :code:`M2 / 6`
 
